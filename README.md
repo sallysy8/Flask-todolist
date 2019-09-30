@@ -1,3 +1,3 @@
 # Flask-todolist
 
-# https://blooming-garden-64852.herokuapp.com/
+# https://blooming-garden-64852.herokuapp.com/all
